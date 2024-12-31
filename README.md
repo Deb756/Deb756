@@ -55,10 +55,10 @@ I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcM
       </a>
     </td>
     <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Deb756&theme=dark&background=000000" alt="GitHub Streak" />
-      </a>
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Deb756&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb756&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
