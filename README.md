@@ -50,17 +50,17 @@ I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcM
 <table>
   <tr>
     <td>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Deb756&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Deb756&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
       </a>
     </td>
     <td>
-     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Deb756&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb756&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
       </a>
     </td>
