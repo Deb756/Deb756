@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=Deb756&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  Hey there I am Debabrat
+  Hey There I m Debabrat
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
