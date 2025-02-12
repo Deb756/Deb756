@@ -25,7 +25,7 @@
 
 
 # 💫 About Me:
-I am a Full Stack Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from India.<br><br>🔭 I can contribute to both frontend and backend development and have experience building various web applications using technologies like Java, Servlet, JSP, Hibernate, Spring Boot, React, HTML, CSS, JavaScript, Bootstrap, and MySQL.<br><br>🌱 Exploring Technical Content Writing to share knowledge and insights with the developer community.<br><br>⚡ In my free time, I solve coding challenges on GeeksforGeeks and LeetCode, and read technical articles to stay updated with the latest trends in technology.
+I am a Full Stack Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from India.<br><br>🔭 I can contribute to both frontend and backend development and have experience building various web applications using technologies like Java, Servlet, JSP, Hibernate, Spring Boot, Spring MVC, MySQL, React, vite, HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS .<br><br>🌱 Exploring Technical Content Writing to share knowledge and insights with the developer community.<br><br>⚡ In my free time, I solve coding challenges on GeeksforGeeks and LeetCode, and read technical articles to stay updated with the latest trends in technology.
 
 
 ## 🌐 Socials:
@@ -38,6 +38,7 @@ I am a Full Stack Java Developer<img src="https://media.giphy.com/media/WUlplcMp
 ![](https://github-readme-stats.vercel.app/api?username=deb756&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deb756&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deb756&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deb756&theme=react-dark&hide_border=true&area=true" width="100%">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deb756&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -45,5 +46,4 @@ I am a Full Stack Java Developer<img src="https://media.giphy.com/media/WUlplcMp
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deb756&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=deb756&icon=0&color=0)](https://visitcount.itsvg.in)
+
