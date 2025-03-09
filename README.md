@@ -43,13 +43,13 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deb756&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deb756&theme=dark&hide_border=false" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deb756&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deb756&theme=vision-friendly-dark&hide_border=true" width="47%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deb756&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="47%"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=deb756&limit=5&theme=dark&combine_all_yearly_contributions=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deb756&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="47%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=deb756&limit=5&theme=vision-friendly-dark&hide_border=true&combine_all_yearly_contributions=true" width="47%"/>
 </div>
 
 
