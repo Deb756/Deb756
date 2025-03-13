@@ -43,8 +43,10 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deb756&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=deb756&theme=vision-friendly-dark&hide_border=true" width="47%" alt=""/>
+  <a href="https://github.com/deb756">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deb756&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deb756&theme=vision-friendly-dark&hide_border=true" />
+  </a>
 </div>
 
 <div align="center">
